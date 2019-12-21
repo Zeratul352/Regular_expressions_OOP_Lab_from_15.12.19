@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\Regular_expressions_OOP_Lab_from_15.12.19\Regular_expressions_OOP_Lab_from_15.12.19\bin\Debug\Regular_expressions_OOP_Lab_from_15.12.19.exe.config
+C:\Users\Andrey\source\repos\Regular_expressions_OOP_Lab_from_15.12.19\Regular_expressions_OOP_Lab_from_15.12.19\bin\Debug\Regular_expressions_OOP_Lab_from_15.12.19.exe
+C:\Users\Andrey\source\repos\Regular_expressions_OOP_Lab_from_15.12.19\Regular_expressions_OOP_Lab_from_15.12.19\bin\Debug\Regular_expressions_OOP_Lab_from_15.12.19.pdb
+C:\Users\Andrey\source\repos\Regular_expressions_OOP_Lab_from_15.12.19\Regular_expressions_OOP_Lab_from_15.12.19\obj\Debug\Regular_expressions_OOP_Lab_from_15.12.19.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Regular_expressions_OOP_Lab_from_15.12.19\Regular_expressions_OOP_Lab_from_15.12.19\obj\Debug\Regular_expressions_OOP_Lab_from_15.12.19.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Regular_expressions_OOP_Lab_from_15.12.19\Regular_expressions_OOP_Lab_from_15.12.19\obj\Debug\Regular_expressions_OOP_Lab_from_15.12.19.exe
+C:\Users\Andrey\source\repos\Regular_expressions_OOP_Lab_from_15.12.19\Regular_expressions_OOP_Lab_from_15.12.19\obj\Debug\Regular_expressions_OOP_Lab_from_15.12.19.pdb
